@@ -29,13 +29,15 @@ I'm currently expanding my technical expertise in AWS cloud technologies, Python
 - Cloud Architecture
 - DevSecOps Fundamentals
 - Emerging Cloud & AI Technologies
+- PMP Preparation
 
 ## 🎓 Certifications
 
 - ✅ CompTIA Security+ (SY0-701)
 - 🔄 AWS Certified Cloud Practitioner — In Progress
 - 🔄 PCEP - Certified Entry-Level Python Programmer - In Progress
-
+- 🔄 Project Management Professional (PMP) — In Progress
+  
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/yanykatroutman)
