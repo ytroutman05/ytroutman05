@@ -14,12 +14,12 @@ I'm currently expanding my technical expertise in AWS cloud technologies, Python
 - 🏗️ Solutions Architecture
 - 📊 Process Improvement & Project Management
 
-## 🚀 Current Projects
+## 🚀 Projects in Development
 
-- **IT Operations Health Monitor** — Python-based system monitoring and health reporting
-- **AWS S3 Static Website** — Cloud storage, hosting, and permissions
-- **AWS EC2 Web Server Lab** — Compute, networking, and security groups
-- **AWS IAM Security Lab** — Identity, permissions, and least-privilege concepts
+- **IT Operations Health Monitor** — Planned Python project for system monitoring and health reporting
+- **AWS S3 Static Website** — Planned cloud storage, hosting, and permissions
+- **AWS EC2 Web Server Lab** — Planned, compute, networking, and security groups project
+- **AWS IAM Security Lab** — Planned identity, permissions, and least-privilege project
 
 ## 📚 Currently Learning
 
