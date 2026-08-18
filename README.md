@@ -24,7 +24,7 @@ I'm currently expanding my technical expertise in AWS cloud technologies, Python
 ## 📚 Currently Learning
 
 - AWS Cloud Fundamentals
-- AWS Certified Cloud Practitioner - In Progress
+- AWS Certified Cloud Practitioner Exam Preparation
 - Python Institute PCEP Exam Preparation
 - Cloud Architecture
 - DevSecOps Fundamentals
