@@ -24,8 +24,8 @@ I'm currently expanding my technical expertise in AWS cloud technologies, Python
 ## 📚 Currently Learning
 
 - AWS Cloud Fundamentals
-- AWS Certified Cloud Practitioner
-- Python
+- AWS Certified Cloud Practitioner - In Progress
+- Python Institute PCEP Exam Preparation
 - Cloud Architecture
 - DevSecOps Fundamentals
 - Emerging Cloud & AI Technologies
@@ -34,6 +34,7 @@ I'm currently expanding my technical expertise in AWS cloud technologies, Python
 
 - ✅ CompTIA Security+ (SY0-701)
 - 🔄 AWS Certified Cloud Practitioner — In Progress
+- 🔄 PCEP - Certified Entry-Level Python Programmer - In Progress
 
 ## 🤝 Connect With Me
 
