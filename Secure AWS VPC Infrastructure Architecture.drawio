@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="ktBd5_5syruAo6TL49Dq" name="Page-1">
-    <mxGraphModel dx="1398" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry height="30" width="173" x="466.5" y="410" as="geometry" />
         </mxCell>
         <mxCell id="22vw-bZXLt47qQbv7tyD-11" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;points=[[0.522,0,0],[0.57,1,0],[0,0.562,0],[1,0.556,0],[0.905,0.274,0],[0.917,0.785,0],[0.1,0.872,0],[0.14,0.151,0]];labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="80" width="126.98" x="335.88" as="geometry" />
+          <mxGeometry height="80" width="126.98" x="335.88" y="10" as="geometry" />
         </mxCell>
         <mxCell id="22vw-bZXLt47qQbv7tyD-16" edge="1" parent="1" source="22vw-bZXLt47qQbv7tyD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="22vw-bZXLt47qQbv7tyD-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -101,6 +101,12 @@
         </mxCell>
         <mxCell id="22vw-bZXLt47qQbv7tyD-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Private Subnet AZ2&amp;nbsp;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;10.0.12/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="188.5" x="440" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="22vw-bZXLt47qQbv7tyD-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Reserved for additional public resources" vertex="1">
+          <mxGeometry height="69.5" width="126.98" x="490" y="560.5" as="geometry" />
+        </mxCell>
+        <mxCell id="22vw-bZXLt47qQbv7tyD-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Reserved for additional private resources" vertex="1">
+          <mxGeometry height="69.5" width="126.98" x="495.45" y="885.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
