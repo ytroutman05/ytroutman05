@@ -64,7 +64,7 @@
         <mxCell id="3L__B5N8HrDMpmoQ6qzc-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#EAF7EE,#EDEDED);strokeColor=light-dark(#3C8C5A,#EDEDED);strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="126" width="520" x="-400" y="759" as="geometry" />
         </mxCell>
-        <mxCell id="JSehQp_l1CpndqAGabpY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;AWS Cloud Infrastructure Monitoring &amp;amp; Alerting&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="JSehQp_l1CpndqAGabpY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;AWS Security Monitoring &amp;amp; Incident Detection Architecture&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="760" y="20" as="geometry" />
         </mxCell>
         <mxCell id="JSehQp_l1CpndqAGabpY-3" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;labelPerimeter=1;" value="" vertex="1">
